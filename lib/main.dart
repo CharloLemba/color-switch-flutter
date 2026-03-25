@@ -17,7 +17,7 @@ class _MainAppState extends State<MainApp> {
     Colors.white70,
     Colors.tealAccent,
     Colors.transparent,
-    Colors.cyanAccent,
+    Colors.amberAccent,
   ];
   List<Color> warnaText = [
     Colors.black,
